@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Taller1</string>
+    <string name="empezar_localizaci_n">Empezar Localización</string>
+    <string name="sensor_de_recolecci_n_de_datos">Sensor de Recolección de datos</string>
 </resources>
