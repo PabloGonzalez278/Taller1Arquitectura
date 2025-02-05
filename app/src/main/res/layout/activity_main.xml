@@ -21,8 +21,12 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="76dp"
         android:layout_marginTop="596dp"
+        android:layout_marginEnd="79dp"
+        android:layout_marginBottom="111dp"
         android:text="@string/sensor_de_recolecci_n_de_datos"
         android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -32,7 +36,11 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="108dp"
         android:layout_marginTop="640dp"
+        android:layout_marginEnd="115dp"
+        android:layout_marginBottom="43dp"
         android:text="@string/empezar_localizaci_n"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
