@@ -36,6 +36,8 @@ android {
 }
 
 dependencies {
+    implementation ("com.squareup.okhttp3:okhttp:4.9.3")
+    implementation ("org.java-websocket:Java-WebSocket:1.5.2")
     implementation ("com.google.android.gms:play-services-maps:19.0.0")
     implementation ("com.google.android.gms:play-services-location:21.0.1")
     implementation ("com.squareup.okhttp3:okhttp:4.9.3")
